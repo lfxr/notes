@@ -24,9 +24,9 @@ title: リンク
 ### Dev
 | Service    | Account                                    |
 | :--------- | :----------------------------------------- |
-| GitHub     | [lafixier](https://github.com/lafixier)    |
-| GitLab     | [lafixier](https://gitlab.com/lafixier)    |
-| WakaTime   | [lafixier](https://wakatime.com/@lafixier) |
+| GitHub     | [lfxr](https://github.com/lfxr)    |
+| GitLab     | [lfxr](https://gitlab.com/lfxr)    |
+| WakaTime   | [lfxr](https://wakatime.com/@lfxr) |
 ### Competitions
 | Service | Account                                       |
 | :------ | :-------------------------------------------- |
